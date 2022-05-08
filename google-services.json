@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947940321421",
+    "project_id": "onlineshopping-65b03",
+    "storage_bucket": "onlineshopping-65b03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947940321421:android:052fd769ea0b8ffc755ac4",
+        "android_client_info": {
+          "package_name": "com.bernardo.onlineshopping_bernardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947940321421-jtvg8lrelietvdusiot8b43jk6cgk3gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bernardo.OnlineShopping_Bernardo",
+            "certificate_hash": "c0860844a73e014d66ff64aec900073899ef3a9a"
+          }
+        },
+        {
+          "client_id": "947940321421-o6cu4dqts70hmk95heg5npaknad9as3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnM25jM2ofjMlsU8AoT_V85SI5Kt-zBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947940321421-o6cu4dqts70hmk95heg5npaknad9as3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
